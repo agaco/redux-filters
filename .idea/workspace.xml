@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb3a93cb-9c84-40ba-b664-b5b2aa8ff678" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YflB3XMliPWShShnjfCN3oBYG1" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Filters" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/Filters" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/Filters" />
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb3a93cb-9c84-40ba-b664-b5b2aa8ff678" name="Default Changelist" comment="" />
+      <created>1583341390357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583341390357</updated>
+      <workItem from="1583341392371" duration="11994000" />
+      <workItem from="1583403391612" duration="20949000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="770" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1583341715207">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state x="770" y="311" width="424" height="491" key="FileChooserDialogImpl/54.27.1866.1053@54.27.1866.1053" timestamp="1583341715207" />
+    <state width="475" height="864" key="GridCell.Tab.0.bottom" timestamp="1583343327385">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state width="475" height="864" key="GridCell.Tab.0.bottom/54.27.1866.1053@54.27.1866.1053" timestamp="1583343327385" />
+    <state width="475" height="864" key="GridCell.Tab.0.center" timestamp="1583343327385">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state width="475" height="864" key="GridCell.Tab.0.center/54.27.1866.1053@54.27.1866.1053" timestamp="1583343327385" />
+    <state width="475" height="864" key="GridCell.Tab.0.left" timestamp="1583343327384">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state width="475" height="864" key="GridCell.Tab.0.left/54.27.1866.1053@54.27.1866.1053" timestamp="1583343327384" />
+    <state width="475" height="864" key="GridCell.Tab.0.right" timestamp="1583343327385">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state width="475" height="864" key="GridCell.Tab.0.right/54.27.1866.1053@54.27.1866.1053" timestamp="1583343327385" />
+    <state x="1752" y="1368" width="727" height="530" key="find.popup" timestamp="1583425526517">
+      <screen x="1129" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="1752" y="1368" width="727" height="530" key="find.popup/1129.1080.1920.1080/1183.0.737.1080/1920.0.1920.1080@1129.1080.1920.1080" timestamp="1583425526517" />
+  </component>
+</project>
