@@ -27,7 +27,7 @@ function Pagination() {
 
 
   useEffect(() => {
-   actionCreators.setPagination(dispatch, payload);
+    actionCreators.setPagination(dispatch, payload);
   },[dispatch]);
 
 
@@ -40,20 +40,20 @@ function Pagination() {
   };
 
   return (
-     <Wrapper>
-       {
-         data.length > 0 && paginationRenderer.length > 0 && paginationRenderer.map((item, index) => {
-           return (
+    <Wrapper>
+      {
+        data.length > 0 && paginationRenderer.length > 0 && paginationRenderer.map((item, index) => {
+          return (
             <PaginationItem key={index}
               shape='circle'
               onClick={() => handlePageChange(item)}
             >
               { item.name }
             </PaginationItem>
-           )
-         })
-       }
-     </Wrapper>
+          );
+        })
+      }
+    </Wrapper>
   );
 }
 

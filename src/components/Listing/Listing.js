@@ -19,27 +19,27 @@ function Listing() {
   },[dispatch]);
 
 
-    const paginatedData = Object.keys(currentItemsRange).length > 0 && data.length > 0 && data.slice(currentItemsRange.range_from, currentItemsRange.range_to);
+  const paginatedData = Object.keys(currentItemsRange).length > 0 && data.length > 0 && data.slice(currentItemsRange.range_from, currentItemsRange.range_to);
 
 
   return (
-<Row>
-  <Col span={24}>
-    <Wrapper>
-      {
-        paginatedData && paginatedData.length > 0 && paginatedData.map((item, index) => {
-          return (
-           <Comment key={item.id}
-            author={`item Id : ${item.id} || user : ${item.userId} => title: ${item.title}`}
-            content={item.body}
-           />
-          )
-        })
-      }
-    </Wrapper>
-    <Pagination/>
-  </Col>
-</Row>
+    <Row>
+      <Col span={24}>
+        <Wrapper>
+          {
+            paginatedData && paginatedData.length > 0 && paginatedData.map((item, index) => {
+              return (
+                <Comment key={item.id}
+                  author={`item Id : ${item.id} || user : ${item.userId} => title: ${item.title}`}
+                  content={item.body}
+                />
+              );
+            })
+          }
+        </Wrapper>
+        <Pagination/>
+      </Col>
+    </Row>
   );
 }
 

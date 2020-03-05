@@ -17,14 +17,14 @@ function Filters() {
   };
 
   return (
-<Row>
-  <Col span={5}>
-    <DropdownFilter content={userIds} type='select' onChange={onChange}/>
-  </Col>
-  <Col span={19}>
-    <SearchBar content={userIds} type='search' onChange={onChange}/>
-  </Col>
-</Row>
+    <Row>
+      <Col span={5}>
+        <DropdownFilter content={userIds} type='select' onChange={onChange}/>
+      </Col>
+      <Col span={19}>
+        <SearchBar content={userIds} type='search' onChange={onChange}/>
+      </Col>
+    </Row>
   );
 }
 

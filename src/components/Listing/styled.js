@@ -11,7 +11,6 @@ export const Wrapper = styled.div`
   border-style: solid;
   border-width: 1px;
   margin: 20px 0;
-  ;
 `;
 export const Comment = styled(CommonComment)`
 `;
