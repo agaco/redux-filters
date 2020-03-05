@@ -19,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YflB3XMliPWShShnjfCN3oBYG1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -32,6 +36,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Filters" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -77,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583341390357</updated>
       <workItem from="1583341392371" duration="11994000" />
-      <workItem from="1583403391612" duration="20949000" />
+      <workItem from="1583403391612" duration="21563000" />
     </task>
     <servers />
   </component>
@@ -105,9 +110,17 @@
       <screen x="54" y="27" width="1866" height="1053" />
     </state>
     <state width="475" height="864" key="GridCell.Tab.0.right/54.27.1866.1053@54.27.1866.1053" timestamp="1583343327385" />
+    <state x="1711" y="1369" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1583428315583">
+      <screen x="1129" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="1711" y="1369" width="800" height="535" key="Vcs.Push.Dialog.v2/1129.1080.1920.1080/1183.0.737.1080/1920.0.1920.1080@1129.1080.1920.1080" timestamp="1583428315583" />
     <state x="1752" y="1368" width="727" height="530" key="find.popup" timestamp="1583425526517">
       <screen x="1129" y="1080" width="1920" height="1080" />
     </state>
     <state x="1752" y="1368" width="727" height="530" key="find.popup/1129.1080.1920.1080/1183.0.737.1080/1920.0.1920.1080@1129.1080.1920.1080" timestamp="1583425526517" />
+    <state x="1802" y="1423" width="618" height="428" key="git4idea.merge.GitPullDialog" timestamp="1583428330203">
+      <screen x="1129" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="1802" y="1423" width="618" height="428" key="git4idea.merge.GitPullDialog/1129.1080.1920.1080/1183.0.737.1080/1920.0.1920.1080@1129.1080.1920.1080" timestamp="1583428330203" />
   </component>
 </project>
