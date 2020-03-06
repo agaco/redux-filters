@@ -23,8 +23,8 @@ module.exports = {
     ],
     "rules": {
         "no-debugger": 0,
-        "react-hooks/rules-of-hooks": 0,
-        "react-hooks/exhaustive-deps": 0,
+        "react-hooks/rules-of-hooks": [0],
+        "react-hooks/exhaustive-deps": [0],
         "no-console":0,
         "indent": [
             "warn",

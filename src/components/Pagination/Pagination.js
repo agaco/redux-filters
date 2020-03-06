@@ -20,15 +20,22 @@ function Pagination() {
     });
   });
 
-  const payload = ({
-    range_from: 0,
-    range_to: itemsPerPageCounter -1,
-  });
 
+
+
+  const setInitialPagination = async () => {
+
+    const payload = ({
+      range_from: 0,
+      range_to: itemsPerPageCounter -1,
+    });
+
+    await actionCreators.setPagination(dispatch, payload);
+  };
 
   useEffect(() => {
-    actionCreators.setPagination(dispatch, payload);
-  },[dispatch]);
+    setInitialPagination();
+  },[]); // eslint-disable-line react-hooks/exhaustive-deps
 
 
   const handlePageChange = (val) => {

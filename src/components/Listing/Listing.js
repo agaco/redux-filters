@@ -27,7 +27,7 @@ function Listing() {
       <Col span={24}>
         <Wrapper>
           {
-            paginatedData && paginatedData.length > 0 && paginatedData.map((item, index) => {
+            paginatedData && paginatedData.length > 0 && paginatedData.map(item => {
               return (
                 <Comment key={item.id}
                   author={`item Id : ${item.id} || user : ${item.userId} => title: ${item.title}`}

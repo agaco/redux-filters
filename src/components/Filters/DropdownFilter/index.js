@@ -1,3 +1,3 @@
-import DropdownFilter from './DropdownFilter'
+import DropdownFilter from './DropdownFilter';
 
 export default DropdownFilter;
