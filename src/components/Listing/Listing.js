@@ -15,7 +15,7 @@ function Listing() {
   const dispatch = useDispatch();
 
   useEffect(() => {
-    data.length === 0 && actionCreators.getDataAction(dispatch);
+    actionCreators.getDataAction(dispatch);
   },[dispatch]);
 
 
